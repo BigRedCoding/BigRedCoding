@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0bdf9ea5-c3eb-40f3-b189-adbc0a7541af)# Hello, my name is Brandon Dooley! 👋
+# Hello, my name is Brandon Dooley! 👋
 
 I'm a **Software Engineer** with a passion for creating impactful digital products. I have a diverse background with **3 Bachelor's degrees** in **Communications** and **Management**, and I’m currently expanding my skill set as a **Full Stack Software Engineer**. 
 My primary focus is on **web development** using **React.js**, **Node.js**, and **MongoDB**.
@@ -10,7 +10,7 @@ My primary focus is on **web development** using **React.js**, **Node.js**, and 
 - **Tools & Technologies**: Git, Docker, GitHub, Heroku, Firebase
 
 ## Currently Working On:
-- Building a full-stack **e-commerce application** using React, Node, and MongoDB.
+- A collaborative project with other students of TripleTen competing against another team
 - Contributing to open-source projects and improving my **C++** skills.
 
 ## 📂 Some of My Projects:
