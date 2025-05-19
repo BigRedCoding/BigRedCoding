@@ -14,13 +14,14 @@ My primary focus is on **web development** using **React.js**, **Node.js**, and 
 - Contributing to open-source projects and improving my **C++** skills.
 
 ## 📂 Some of My Projects:
-- [Porfolio](https://bigredcoding.github.io/NewPortfolio/): Github website acting as my portfolio.
-- [News Explorer](https://www.newsexplorer.justlearning.net): Fully deployed website meant to search for news articles along with other features.
-- [WTWR](https://www.newsexplorer.justlearning.net): Fully deployed website meant to describe current weather conditions and recommended clothing items.
-- [The Planet Pledge](https://www.theplanetpledge.justlearning.net): Fully deployed website meant to encourage users to commit actions that benefit the planet.
+- [Porfolio](https://www.bigredcoding.com): My main website fully deployed on a Google VM.
+- [News Explorer](https://finalproject.bigredcoding.com/): My final project, re-deployed with my main website as the base. Designed to search, like, and favorite news articles from multiple sources.
+- [The Planet Pledge](https://planetpledge.bigredcoding.com/): Team competition project completed in a week and situated thanks to my efforts converting to React and creating the server.
 
 ## Let's Connect! 🤝
 - [LinkedIn](https://www.linkedin.com/in/brandon-roy-dooley/)
 - [Email](brandonroydooley@gmail.com)
 
 Thanks for checking out my GitHub profile! I'm always excited to collaborate on new projects, so feel free to reach out if you'd like to work together! 😊
+
+Updated: 05/19/2025
