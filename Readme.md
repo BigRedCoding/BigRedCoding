@@ -13,7 +13,7 @@ I am currently a **CDL Driver** that also continues coding as a **Typescript Sof
 - Building and enhancing several Typescript games
 
 ## 📂 Currently available projects:
-- [Games](https://bigredcoding.github.io/Portfolio-4/GameDemo): My main website fully deployed on a Google VM.
+- [Games](https://bigredcoding.github.io/Portfolio-4/GameDemo): This segment of my portfolio hosts the games I am currently working on.
 
 ## Let's Connect! 🤝
 - [LinkedIn](https://www.linkedin.com/in/brandon-roy-dooley/)
