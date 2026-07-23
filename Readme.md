@@ -3,7 +3,7 @@
 I am currently a **CDL Driver** that also continues coding as a **Typescript Software Engineer**. I have a diverse skillset and background, including earning **3 Bachelor's degrees** in **Communications** and **Management**. 
 
 ## Skills:
-- **Frontend**: HTML, CSS, JavaScript, React.js
+- **Frontend**: HTML, CSS, JavaScript, React.js, Typescript
 - **Backend**: Node.js, Express, MongoDB
 - **Languages**: JavaScript, C++, C#
 - **Tools & Technologies**: Git, Docker, GitHub, Heroku, Firebase
