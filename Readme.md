@@ -1,7 +1,6 @@
 # Hello, my name is Brandon Dooley! 👋
 
-I'm a **Software Engineer** with a passion for creating impactful digital products. I have a diverse background with **3 Bachelor's degrees** in **Communications** and **Management**, and I’m currently expanding my skill set as a **Full Stack Software Engineer**. 
-My primary focus is on **web development** using **React.js**, **Node.js**, and **MongoDB**.
+I am currently a **CDL Driver** that also continues coding as a **Typescript Software Engineer**. I have a diverse skillset and background, including earning **3 Bachelor's degrees** in **Communications** and **Management**. 
 
 ## Skills:
 - **Frontend**: HTML, CSS, JavaScript, React.js
@@ -10,13 +9,11 @@ My primary focus is on **web development** using **React.js**, **Node.js**, and 
 - **Tools & Technologies**: Git, Docker, GitHub, Heroku, Firebase
 
 ## Currently Working On:
-- A collaborative project with other students of TripleTen competing against another team
-- Contributing to open-source projects and improving my **C++** skills.
+- Enhancing my newest version of my Portfolio
+- Building and enhancing several Typescript games
 
-## 📂 Some of My Projects:
-- [Porfolio](https://www.bigredcoding.com): My main website fully deployed on a Google VM.
-- [News Explorer](https://finalproject.bigredcoding.com/): My final project, re-deployed with my main website as the base. Designed to search, like, and favorite news articles from multiple sources.
-- [The Planet Pledge](https://planetpledge.bigredcoding.com/): Team competition project completed in a week and situated thanks to my efforts converting to React and creating the server.
+## 📂 Currently available projects:
+- [Games](https://bigredcoding.github.io/Portfolio-4/GameDemo): My main website fully deployed on a Google VM.
 
 ## Let's Connect! 🤝
 - [LinkedIn](https://www.linkedin.com/in/brandon-roy-dooley/)
@@ -24,4 +21,4 @@ My primary focus is on **web development** using **React.js**, **Node.js**, and 
 
 Thanks for checking out my GitHub profile! I'm always excited to collaborate on new projects, so feel free to reach out if you'd like to work together! 😊
 
-Updated: 05/19/2025
+Updated: 07/22/2026
